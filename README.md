@@ -15,6 +15,8 @@ Process includes:
 5. Deploy using Jenkins Pipeline  
 
 ---
+<img src="Gemini_Generated_Image_qra52yqra52yqra5.png" alt=""> 
+
 
 ## 1. Creating EC2 Instance using Terraform
 
@@ -246,6 +248,7 @@ Webhook triggers build on new GitHub pushes.
 ✓ SSH credentials added  
 ✓ Pipeline created  
 ✓ Deployment working  
+
 
 
 
