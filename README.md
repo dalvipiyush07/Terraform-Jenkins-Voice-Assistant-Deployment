@@ -1,6 +1,6 @@
 # Terraform-Jenkins Voice Assistant Deployment
 
-<img src="https://i.gifer.com/8FLR.gif" alt=""> , <img src="https://i.makeagif.com/media/5-27-2017/1it9YM.gif" alt="">"
+<img src="https://i.gifer.com/8FLR.gif" alt=""> 
 
 # Overview
 
@@ -246,6 +246,7 @@ Webhook triggers build on new GitHub pushes.
 ✓ SSH credentials added  
 ✓ Pipeline created  
 ✓ Deployment working  
+
 
 
 
